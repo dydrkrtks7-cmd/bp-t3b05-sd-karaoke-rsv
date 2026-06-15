@@ -2,21 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://dydrkrtks7-cmd.github.io/bp-t3b05-sd-karaoke-rsv/</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://dydrkrtks7-cmd.github.io/bp-t3b05-sd-karaoke-rsv/about.html</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://dydrkrtks7-cmd.github.io/bp-t3b05-sd-karaoke-rsv/blog.html</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://dydrkrtks7-cmd.github.io/bp-t3b05-sd-karaoke-rsv/posts/field_note-002-1s1vmra.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
   </url>
   <url>
     <loc>https://dydrkrtks7-cmd.github.io/bp-t3b05-sd-karaoke-rsv/posts/interview-001-79568e.html</loc>
@@ -55,6 +61,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://dydrkrtks7-cmd.github.io/bp-t3b05-sd-karaoke-rsv/posts/review-001-1s1vmra.html</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://dydrkrtks7-cmd.github.io/bp-t3b05-sd-karaoke-rsv/posts/review-001.html</loc>
     <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -62,7 +74,7 @@
   </url>
   <url>
     <loc>https://dydrkrtks7-cmd.github.io/bp-t3b05-sd-karaoke-rsv/feed.xml</loc>
-    <lastmod>2026-06-10</lastmod>
+    <lastmod>2026-06-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
