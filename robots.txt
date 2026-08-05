@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sindorim-song-info.link-hub.org/sitemap.xml
-Sitemap: https://sindorim-song-info.link-hub.org/sitemap-pages.xml
+Sitemap: https://yeomchang-shirts-note.mens-esthe.space/sitemap.xml
+Sitemap: https://yeomchang-shirts-note.mens-esthe.space/sitemap-pages.xml
